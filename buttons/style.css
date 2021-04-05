@@ -1,0 +1,33 @@
+/* DON'T TOUCH THIS! */
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* DON'T TOUCH THIS! */
+
+/* ==========================
+	Write your solution here!
+   ========================== */
+
+.btn {
+  text-decoration: none;
+  padding: 10px 20px;
+  background: brown;
+  color: aliceblue;
+  font-weight: 900;
+}
+
+.btn:focus {
+  background-color: aqua;
+  color: black;
+}
+
+.btn:hover {
+  background: cadetblue;
+  color: black;
+  padding: 30px 50px;
+}

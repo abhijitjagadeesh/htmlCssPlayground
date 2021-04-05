@@ -1,0 +1,43 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  overflow: hidden;
+}
+
+.card {
+  margin: 0;
+  padding: 20px;
+  height: 100%;
+  text-align: center;
+  background: aquamarine;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+p {
+  margin: 50px;
+}
+
+.info {
+  font-size: 20px;
+}
+
+.info-label {
+  font-size: 25px;
+  font-weight: 800;
+}
+
+.end {
+  font-size: 25px;
+  font-weight: 800;
+}
+
+img {
+  margin: 30px auto;
+  width: 200px;
+  height: 200px;
+}
